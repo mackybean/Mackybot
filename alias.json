@@ -1,0 +1,30 @@
+{
+  "!gold": [
+    "!image",
+    "gold"
+  ],
+  "Gold": [
+    "rimage",
+    "gold"
+  ],
+  "gold": [
+    "rimage",
+    "gold"
+  ],
+  "System_command_override_gold": [
+    "setusername",
+    "Goldbot"
+  ],
+  "Rayner": [
+    "say",
+    "Fox!"
+  ],
+  "Ryan": [
+    "rimage",
+    "Ryan Haywood"
+  ],
+  "ryan": [
+    "rimage",
+    "Ryan Haywood"
+  ]
+}

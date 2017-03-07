@@ -12,6 +12,7 @@
   "license": "GPL-2.0",
   "dependencies": {
     "discord.js": "11.0.x",
+    "erlpack": "github:hammerandchisel/erlpack",
     "feedparser": "1.1.x",
     "html-to-text": "1.5.x",
     "nock": "1.7.x",

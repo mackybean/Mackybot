@@ -1,0 +1,24 @@
+{
+  "global": {
+    "eval": false,
+    "pullanddeploy": false,
+    "setUsername": false,
+    "alias": false,
+    "rule34": false
+  },
+  "users": {
+    "157251360058900481": {
+      "eval": true,
+      "alias": true,
+      "pullanddeploy": true,
+      "setUsername": true,
+      "rule34": true
+    },
+    "125332210776670209": {
+      "eval": true,
+      "alias": true,
+      "pullanddeploy": true,
+      "setUsername": true
+    }
+  }
+}
